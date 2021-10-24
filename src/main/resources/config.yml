@@ -1,0 +1,30 @@
+###
+# 
+#  Plug-in made by: {authors}
+#
+###
+
+
+####################
+#  Chat Settings  #
+####################
+chat-setting:
+  toggles:
+    use-custom-prefix: false
+    send-no-permission-cmd: true
+    send-no-permission-event: true
+  messages:
+    chat-prefix: '&8[&fMyPlugin&8] &f: '
+    no-permission-cmd: '&cYou do not have permisison to do that command.'
+    no-permission-event: '&cYou do not have permission to perform that action.'
+
+########################
+#  Utilities Settings  #
+########################
+utilities-settings:
+  debug-mode: false
+
+#####################
+#  Plug-in Settings  #
+#####################
+#plugin-settings:

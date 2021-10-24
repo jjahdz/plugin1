@@ -1,0 +1,4 @@
+name: MyPlugin # Cannot contain any spaces.
+main: com.company.myplugin.core.MyPlugin # Defines the plug-in's starting class.
+version: 1.0 # Defines what version the plug-in is.
+authors: [author1, author2] # Defines who made the plugin.
